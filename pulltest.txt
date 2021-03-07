@@ -1,0 +1,5 @@
+i just test fetch and merge, it looks like this:
+    git fetch origin
+    
+    git merge main (but this is wrong)
+    git merge origin/main (this time is right, because you have to show the host name and the branch name, in this manner: host_name/branch_name)
